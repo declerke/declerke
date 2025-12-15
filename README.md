@@ -1,56 +1,21 @@
-# Hi, I'm Ian Mwendwa Mboyo 👋
+# 💫 About Me:
+I am a motivated and adaptable professional with hands-on experience in IT infrastructure, network administration, and hospitality system operations. I am enthusiastic about pursuing a data engineering or technology-driven role to further apply my skills and expertise.
 
-**Fresh B.Sc. [cite_start]Information Technology Graduate & Aspiring Data Engineer** [cite: 8, 11]
 
-[cite_start]I am a motivated and versatile professional [cite: 4] [cite_start]with practical experience in IT infrastructure, network administration, and hospitality system operations[cite: 8]. [cite_start]I am eager to secure a data engineering or technology-focused position[cite: 6].
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/faust._/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@De' Clerke) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:idankan751@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=declerke&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=declerke&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=declerke&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 💻 Core Focus & Expertise
-
-[cite_start]My growing specialization is in **Data Engineering**[cite: 11]. [cite_start]I am focused on developing and managing data pipelines, transforming raw data into actionable insights, and optimizing systems for performance and scalability[cite: 11]. [cite_start]I am passionate about building robust data architectures to support analytics initiatives[cite: 13].
-
-### **Key Technical Skills**
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Programming** | [cite_start]Python [cite: 16][cite_start], SQL [cite: 16] |
-| **Data Engineering** | [cite_start]Apache Airflow [cite: 17][cite_start], Docker [cite: 17][cite_start], ETL Processes [cite: 17] |
-| **Databases** | [cite_start]MySQL [cite: 18][cite_start], PostgreSQL [cite: 18] |
-| **Data Analysis** | [cite_start]Python (Pandas, NumPy) [cite: 23][cite_start], Excel [cite: 23] |
-| **Version Control** | [cite_start]Git & GitHub [cite: 22] |
-| **Systems/Cloud Concepts** | [cite_start]LAN maintenance [cite: 24][cite_start], Basic APIs, containers, and automation [cite: 20] |
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=declerke&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=declerke&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 Experience Highlights
-
-[cite_start]During my competitive IT Internship at the 5-star Windsor Golf Hotel & Country Club[cite: 8, 36], I gained hands-on experience in:
-
-* [cite_start]Providing daily technical support for **Opera PMS** (Property Management System)[cite: 37].
-* [cite_start]Managing hotel network infrastructure[cite: 38].
-* [cite_start]Maintaining and operating **POS systems** and electronic keycard access controls[cite: 41].
-* [cite_start]Conducting system backups for sales and administrative records to ensure data integrity[cite: 42].
-* [cite_start]Troubleshooting technical issues with connectivity and proprietary hospitality software[cite: 43].
-
----
-
-## 🚀 Projects & Repositories
-
-* **[Placeholder for Project 1 Title]:** (e.g., A Python script using Pandas to clean messy CSV files)
-* **[Placeholder for Project 2 Title]:** (e.g., An Airflow DAG demonstrating an ETL process)
-* **[Placeholder for Project 3 Title]:** (e.g., A simple application demonstrating a database connection using SQL)
-
-***Check out my repositories below for hands-on projects in data pipeline development, system automation, and practical IT solutions.***
-
----
-
-## 📫 Get In Touch
-
-| Contact Detail | Value |
-| :--- | :--- |
-| [cite_start]**Email** | idankan751@gmail.com [cite: 2] |
-| **Location** | [cite_start]Nairobi, Kenya [cite: 2] |
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)]()
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
