@@ -14,7 +14,7 @@ I am proficient in orchestrating ETL processes, managing cloud-native data wareh
 * **AI/ML Development**: Implementing statistical models and neural networks using **PyTorch, Scikit-Learn, and Pandas**.
 
 ## 🌐 Connect with Me:
-If you'd like to connect with me or learn more about my work, please visit my **[Portfolio Website](https://your-portfolio-link.com)**.
+If you'd like to connect with me or learn more about my work reach out through:
 
 * **Instagram**: [@faust._](https://www.instagram.com/faust._/)
 * **Email**: [idankan751@gmail.com](mailto:idankan751@gmail.com)
