@@ -3,7 +3,7 @@
 # 💫 About Me:
 I am a motivated and adaptable professional with hands-on experience in **IT infrastructure, network administration, and hospitality system operations**. Currently, I am pivoting my career to focus on **Data Engineering** and technology-driven roles where I can leverage my expertise in building robust data pipelines and architecting scalable systems.
 
-My technical journey has evolved into a deep focus on the **Data Science Lifecycle**, where I apply **AI and Machine Learning** to solve complex problems. I am proficient in orchestrating ETL processes, managing cloud-native data warehouses, and developing predictive models. I thrive at the intersection of infrastructure reliability and data innovation.
+I am proficient in orchestrating ETL processes, managing cloud-native data warehouses, and developing predictive models. I thrive at the intersection of infrastructure reliability and data innovation.
 
 
 
