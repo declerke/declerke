@@ -1,9 +1,9 @@
 # 🛠️ Data Engineer | Distributed Systems & Analytics Specialist
 
 # 📈 Professional Summary:
-[cite_start]I am an analytical and self-driven Data Engineer with extensive experience in architecting robust data management systems, scalable pipelines, and high-performance automation solutions[cite: 4, 13]. [cite_start]My expertise lies in bridging the gap between complex IT infrastructure and advanced data intelligence to deliver measurable results in fast-paced environments[cite: 6, 22].
+I am an analytical and self-driven Data Engineer with extensive experience in architecting robust data management systems, scalable pipelines, and high-performance automation solutions[cite: 4, 13]. [cite_start]My expertise lies in bridging the gap between complex IT infrastructure and advanced data intelligence to deliver measurable results in fast-paced environments[cite: 6, 22].
 
-[cite_start]I specialize in leveraging a comprehensive tech stack—including Spark, Kafka, and Snowflake—to transform raw data into high-fidelity intelligence for strategic decision-making[cite: 7, 10]. [cite_start]With a deep background in system reliability and product development, I am dedicated to engineering resilient data ecosystems that optimize operational efficiency and drive data-driven growth[cite: 9, 23, 26].
+I specialize in leveraging a comprehensive tech stack—including Spark, Kafka, and Snowflake—to transform raw data into high-fidelity intelligence for strategic decision-making[cite: 7, 10]. [cite_start]With a deep background in system reliability and product development, I am dedicated to engineering resilient data ecosystems that optimize operational efficiency and drive data-driven growth[cite: 9, 23, 26].
 
 ## ⛓️ Data Engineering Core:
 * **Distributed Processing & Streaming**: Architecting high-throughput systems using **Apache Spark, Kafka, and Flink** for real-time and batch processing.
