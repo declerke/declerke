@@ -16,7 +16,7 @@ I specialize in leveraging a comprehensive tech stack—including Spark, Kafka, 
 If you'd like to connect with me or learn more about my work reach out through:
 
 * **Instagram**: [@faust._](https://www.instagram.com/faust._/)
-* **Email**: [idankan751@gmail.com](mailto:idankan751@gmail.com) [cite: 2]
+* **Email**: [idankan751@gmail.com](mailto:idankan751@gmail.com) 
 
 # 💻 Tech Stack:
 
