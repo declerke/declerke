@@ -9,7 +9,7 @@ I specialize in leveraging a comprehensive tech stack—including Spark, Kafka, 
 * **Distributed Processing & Streaming**: Architecting high-throughput systems using **Apache Spark, Kafka, and Flink** for real-time and batch processing.
 * **Pipeline Orchestration & ETL**: Designing sophisticated automated workflows with **Apache Airflow**, Hadoop, and custom Python integration.
 * **Advanced Data Warehousing**: Expert management of cloud-native and relational environments including **Snowflake, PostgreSQL, and MongoDB**.
-* **Cloud & Infrastructure Ops**: Deploying enterprise-grade data solutions across **AWS, Azure, and GCP** with a focus on **Kubernetes** orchestration.
+* **Cloud & Infrastructure Ops**: Deploying enterprise-grade data solutions across **AWS, Azure, and GCP**.
 * **Predictive Analytics & Modeling**: Developing high-accuracy forecasting models using **PyTorch, TensorFlow, and Scikit-Learn**.
 
 ## 🌐 Connect with Me:
