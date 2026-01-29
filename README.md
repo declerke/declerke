@@ -1,21 +1,22 @@
-# 🚀 Data Engineer | AI & ML Enthusiast
+# 🛠️ Data Engineer | Distributed Systems & Analytics Specialist
 
-# 💫 About Me:
-I am a motivated and adaptable professional with hands-on experience in **IT infrastructure, network administration, and hospitality system operations**. Currently, I am pivoting my career to focus on **Data Engineering** and technology-driven roles where I can leverage my expertise in building robust data pipelines and architecting scalable systems.
+# 📈 Professional Summary:
+[cite_start]I am an analytical and self-driven Data Engineer with extensive experience in architecting robust data management systems, scalable pipelines, and high-performance automation solutions[cite: 4, 13]. [cite_start]My expertise lies in bridging the gap between complex IT infrastructure and advanced data intelligence to deliver measurable results in fast-paced environments[cite: 6, 22].
 
-I am proficient in orchestrating ETL processes, managing cloud-native data warehouses, and developing predictive models. I thrive at the intersection of infrastructure reliability and data innovation.
+[cite_start]I specialize in leveraging a comprehensive tech stack—including Spark, Kafka, and Snowflake—to transform raw data into high-fidelity intelligence for strategic decision-making[cite: 7, 10]. [cite_start]With a deep background in system reliability and product development, I am dedicated to engineering resilient data ecosystems that optimize operational efficiency and drive data-driven growth[cite: 9, 23, 26].
 
-## 📂 Data Engineering Focus:
-* **Pipeline Orchestration**: Designing automated workflows using **Apache Airflow** and Python.
-* **Database Management**: Expert-level handling of **PostgreSQL, MySQL, and NoSQL** environments like Firebase.
-* **Cloud Architecture**: Deploying data solutions across **Azure, AWS, and Google Cloud Platform**.
-* **AI/ML Development**: Implementing statistical models and neural networks using **PyTorch, Scikit-Learn, and Pandas**.
+## ⛓️ Data Engineering Core:
+* **Distributed Processing & Streaming**: Architecting high-throughput systems using **Apache Spark, Kafka, and Flink** for real-time and batch processing.
+* [cite_start]**Pipeline Orchestration & ETL**: Designing sophisticated automated workflows with **Apache Airflow**, Hadoop, and custom Python integration[cite: 13, 40].
+* [cite_start]**Advanced Data Warehousing**: Expert management of cloud-native and relational environments including **Snowflake, PostgreSQL, and MongoDB**[cite: 15].
+* [cite_start]**Cloud & Infrastructure Ops**: Deploying enterprise-grade data solutions across **AWS, Azure, and GCP** with a focus on **Kubernetes** orchestration[cite: 16, 55].
+* [cite_start]**Predictive Analytics & Modeling**: Developing high-accuracy forecasting models using **PyTorch, TensorFlow, and Scikit-Learn**[cite: 14, 39].
 
 ## 🌐 Connect with Me:
 If you'd like to connect with me or learn more about my work reach out through:
 
 * **Instagram**: [@faust._](https://www.instagram.com/faust._/)
-* **Email**: [idankan751@gmail.com](mailto:idankan751@gmail.com)
+* [cite_start]**Email**: [idankan751@gmail.com](mailto:idankan751@gmail.com) [cite: 2]
 
 # 💻 Tech Stack:
 
@@ -35,7 +36,7 @@ If you'd like to connect with me or learn more about my work reach out through:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 
 ### 🎨 Design & Other Tools
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=declerke&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
