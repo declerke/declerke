@@ -1,16 +1,16 @@
-# 🛠️ Data Engineer | Distributed Systems & Analytics Specialist
+# 🛠️ Data Engineer | Kenya-Focused Pipelines & Analytics
 
 # 📈 Professional Summary:
-I am an analytical and self-driven Data Engineer with extensive experience in architecting robust data management systems, scalable pipelines, and high-performance automation solutions. My expertise lies in bridging the gap between complex IT infrastructure and advanced data intelligence to deliver measurable results in fast-paced environments.
+I am an analytical and self-driven Data Engineer and recent BSc IT graduate building production-grade data systems from the ground up. My work centres on designing end-to-end pipelines — from raw ingestion through transformation and storage to BI dashboards — with a focus on Kenya-domain problems in fintech, aviation, employment intelligence, and real estate.
 
-I specialize in leveraging a comprehensive tech stack—including Spark, Kafka, and Snowflake—to transform raw data into high-fidelity intelligence for strategic decision-making. Having extensive experience in system dependability and the development of data pipelines, I am dedicated to engineering resilient data ecosystems that optimize operational efficiency and drive data-driven growth.
+I specialise in a practical tech stack built through 43+ open-source projects — including Airflow, Kafka, dbt, and GCP — to transform raw data into validated, observable intelligence. I am passionate about engineering reliable data ecosystems that are containerised, testable, and built to run in production environments.
 
 ## ⛓️ Data Engineering Core:
-* **Distributed Processing & Streaming**: Architecting high-throughput systems using **Apache Spark, Kafka, and Flink** for real-time and batch processing.
-* **Pipeline Orchestration & ETL**: Designing sophisticated automated workflows with **Apache Airflow**, Hadoop, and custom Python integration.
-* **Advanced Data Warehousing**: Expert management of cloud-native and relational environments including **Snowflake, PostgreSQL, and MongoDB**.
-* **Cloud & Infrastructure Ops**: Deploying enterprise-grade data solutions across **AWS, Azure, and GCP**.
-* **Predictive Analytics & Modeling**: Developing high-accuracy forecasting models using **PyTorch, TensorFlow, and Scikit-Learn**.
+* **Batch & Streaming Pipelines**: Building end-to-end data workflows using **Apache Airflow** for orchestration and **Apache Kafka** for real-time streaming and decoupled ingestion.
+* **ELT Architecture & Data Modeling**: Designing **dbt**-driven transformation layers with automated data quality testing (Great Expectations) across PostgreSQL, DuckDB, and BigQuery.
+* **Cloud & Infrastructure**: Deploying containerised data solutions on **GCP (BigQuery, GCS)** and **AWS (S3, Lambda, SNS)** with **Terraform** for infrastructure-as-code provisioning.
+* **API Development & Data Serving**: Building production REST APIs with **FastAPI** and self-documenting endpoints using Pydantic schemas for structured, low-latency data delivery.
+* **Analytics Engineering**: Developing dashboards with **Streamlit, Metabase, and Looker Studio**, and delivering analytical insights using Pandas, NumPy, and Plotly.
 
 ## 🌐 Connect with Me:
 If you'd like to connect with me or learn more about my work reach out through:
