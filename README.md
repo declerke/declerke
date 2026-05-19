@@ -1,7 +1,5 @@
 # 🛠️ Data Engineer | Kenya-Focused Pipelines & Analytics
 
-🌐 **Portfolio:** [ian-mwendwa.vercel.app](https://ian-mwendwa.vercel.app)
-
 # 📈 Professional Summary:
 I am an analytical and self-driven Data Engineer and recent BSc IT graduate building production-grade data systems from the ground up. My work centres on designing end-to-end pipelines — from raw ingestion through transformation and storage to BI dashboards — with a focus on Kenya-domain problems in fintech, aviation, employment intelligence, and real estate.
 
