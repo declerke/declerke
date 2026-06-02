@@ -1,9 +1,9 @@
 # 🛠️ Data Engineer | Kenya-Focused Pipelines & Analytics
 
 # 📈 Professional Summary:
-I am an analytical and self-driven Data Engineer and recent BSc IT graduate building production-grade data systems from the ground up. My work centres on designing end-to-end pipelines — from raw ingestion through transformation and storage to BI dashboards — with a focus on Kenya-domain problems in fintech, aviation, employment intelligence, and real estate.
+I am an analytical and self-driven Data Engineer and recent BSc IT graduate building production-grade data systems from the ground up. My work centres on designing end-to-end pipelines, from raw ingestion through transformation and storage to BI dashboards, with a focus on Kenya-domain problems in fintech, aviation, employment intelligence, and real estate.
 
-I specialise in a practical tech stack built through 43+ open-source projects — including Airflow, Kafka, dbt, and GCP — to transform raw data into validated, observable intelligence. I am passionate about engineering reliable data ecosystems that are containerised, testable, and built to run in production environments.
+I specialise in a practical tech stack built through 43+ open-source projects, including Airflow, Kafka, dbt, and GCP, to transform raw data into validated, observable intelligence. I am passionate about engineering reliable data ecosystems that are containerised, testable, and built to run in production environments.
 
 ## ⛓️ Data Engineering Core:
 * **Batch & Streaming Pipelines**: Building end-to-end data workflows using **Apache Airflow** for orchestration and **Apache Kafka** for real-time streaming and decoupled ingestion.
