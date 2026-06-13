@@ -12,7 +12,7 @@ I have shipped 80+ open-source projects across the full data engineering stack: 
 
 - **Batch & Streaming Pipelines**: End-to-end workflows using **Apache Airflow 3.0** (Task SDK, SimpleAuthManager, asset-based scheduling) for orchestration and **Apache Kafka** for real-time streaming and decoupled ingestion.
 - **ELT Architecture & Data Modeling**: **dbt**-driven staging/intermediate/mart layers with automated quality testing (54–72 tests per project) across PostgreSQL, DuckDB, BigQuery, and Snowflake.
-- **NLP & Intelligence Pipelines**: Named entity recognition and sentiment analysis using **spaCy**, **HuggingFace Transformers** (FinBERT, zero-shot classification, token classification), and **MLflow** experiment tracking — applied to news, job postings, legislation, and financial documents.
+- **NLP & Intelligence Pipelines**: Named entity recognition and sentiment analysis using **spaCy**, **HuggingFace Transformers** (FinBERT, zero-shot classification, token classification), and **MLflow** experiment tracking, applied to news, job postings, legislation, and financial documents.
 - **ML Forecasting & Predictive Analytics**: Time-series forecasting with **Prophet** (29–109 models per project), regression and classification with **XGBoost** and SHAP explainability across Kenya, EAC, and Africa-wide datasets.
 - **Web Scraping & Price Intelligence**: Production-grade scrapers using **Playwright** (session priming for Cloudflare-protected sites) and **BeautifulSoup** — e-commerce pricing, classified listings, tenders, and property data.
 - **Cloud & Infrastructure**: Containerised solutions on **GCP (BigQuery, GCS)** and **AWS (S3, Lambda, SNS)** with **Terraform** IaC; all local projects run on Docker Compose with isolated environments.
