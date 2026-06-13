@@ -2,7 +2,7 @@
 
 ## 📈 Professional Summary
 
-I am an analytical and self-driven Data Engineer and BSc IT graduate building production-grade data systems from the ground up. My work spans end-to-end pipelines — raw ingestion through transformation, NLP intelligence, ML forecasting, and BI dashboards — with deep focus on Kenya and Africa-wide domain problems in fintech, employment intelligence, real estate, price tracking, public-sector data, and document intelligence.
+I am an analytical and self-driven Data Engineer and BSc IT graduate building production-grade data systems from the ground up. My work spans end-to-end pipelines, raw ingestion through transformation, NLP intelligence, ML forecasting, and BI dashboards, with deep focus on Kenya and Africa-wide domain problems in fintech, employment intelligence, real estate, price tracking, public-sector data, and document intelligence.
 
 I have shipped 80+ open-source projects across the full data engineering stack: Airflow orchestration, dbt transformation layers, DuckDB/PostgreSQL storage, HuggingFace NLP models, XGBoost/Prophet forecasting, and React-based data products. Every project is containerised, tested, and built to production standards.
 
