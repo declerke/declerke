@@ -21,7 +21,7 @@ I have shipped 80+ open-source projects across the full data engineering stack: 
 
 ---
 
-## 🚀 Featured Projects
+## 🎗️ Featured Projects
 
 | Project | Stack | Scale | GitHub |
 |---------|-------|-------|--------|
